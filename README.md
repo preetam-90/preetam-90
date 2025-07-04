@@ -11,20 +11,20 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE Student | Bihar, India
-- 🌙 Midnight coder fueling ideas with TypeScript and Tailwind-powered dreams
-- 🧠 Obsessed with clean UIs, streaming tech & modern AI integrations
-- 💻 Using: Next.js, Prisma, Supabase, Firebase, Streamlit, and more
+- 🎓 CSE Student | Bihar, India  
+- 🌙 Midnight coder fueling ideas with TypeScript and Tailwind-powered dreams  
+- 🧠 Obsessed with clean UIs, streaming tech & modern AI integrations  
+- 💻 Using: Next.js, Prisma, Supabase, Firebase, Streamlit, and more  
 - 🔥 Builder of **Vidion**, **Grammigo**, **Horizonite Bank**
 
 ---
 
 ## 🧠 Highlights & Skills
 
-- 📱 Mobile-first UI/UX obsessed
-- 🔁 Real-time apps with Supabase, Firebase, Zustand
-- 🤖 AI integrations via Groq, LLaMA APIs
-- 🌐 Deployed full-stack projects on Vercel & Streamlit
+- 📱 Mobile-first UI/UX obsessed  
+- 🔁 Real-time apps with Supabase, Firebase, Zustand  
+- 🤖 AI integrations via Groq, LLaMA APIs  
+- 🌐 Deployed full-stack projects on Vercel & Streamlit  
 - 🧩 Git, GitHub, and modern open-source workflows
 
 ---
@@ -49,11 +49,11 @@
 
 | 🏷️ Project | 🖼 Preview | 🔗 Link | ⚙️ Tech Stack | ✨ Highlights |
 |:--|:--|:--|:--|:--|
-| **Vidion** | *(Add a screenshot or GIF)* | [Watch Live](https://vidion.vercel.app) | Next.js, TailwindCSS, TypeScript | Dark mode, mobile UI, iframe video player |
-| **Grammigo** | *(Add image later)* | [Explore](https://grammigo.vercel.app) | Next.js, TailwindCSS | Booking platform for agri-vehicles |
-| **Vidion AI** | *(Add image later)* | [Try it](https://vidionai.vercel.app) | Next.js, Groq API, LLaMA | Real-time AI chatbot |
-| **Horizonite Bank** | *(Add image later)* | [Live Demo](https://horizonite-bank.streamlit.app) | Python, Streamlit, Matplotlib | 2FA auth, analytics dashboard |
-| **Navision** | *(Add image later)* | [Stream Now](https://bhaiflix.vercel.app) | Next.js, TMDB API | Netflix-style UI with streaming API |
+| **Vidion** | *(Add GIF/screenshot)* | [Watch Live](https://vidion.vercel.app) | Next.js, TailwindCSS, TypeScript | Dark mode, mobile UI, iframe video player |
+| **Grammigo** | *(Add GIF/screenshot)* | [Explore](https://grammigo.vercel.app) | Next.js, TailwindCSS | Booking platform for agri-vehicles |
+| **Vidion AI** | *(Add GIF/screenshot)* | [Try it](https://vidionai.vercel.app) | Next.js, Groq API, LLaMA | Real-time AI chatbot |
+| **Horizonite Bank** | *(Add GIF/screenshot)* | [Live Demo](https://horizonite-bank.streamlit.app) | Python, Streamlit, Matplotlib | 2FA auth, analytics dashboard |
+| **Navision** | *(Add GIF/screenshot)* | [Stream Now](https://bhaiflix.vercel.app) | Next.js, TMDB API | Netflix-style UI with streaming API |
 
 ---
 
@@ -67,15 +67,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=radical&hide_border=true&cache_bust=1" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=preetam-90&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=preetam-90&theme=radical&hide_border=true&cache_bust=1" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=radical&hide_border=true&cache_bust=1" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=react-dark&hide_border=true&cache_bust=1" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=radical&no-bg=true&margin-w=10&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=radical&no-bg=true&margin-w=10&column=5&cache_bust=1" />
 </p>
 
 <p align="center">
@@ -112,4 +112,3 @@
 ---
 
 ⭐️ If you dig my work, don’t forget to **star** your favorite repos!
-
