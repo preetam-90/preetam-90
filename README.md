@@ -352,7 +352,7 @@
   <p>If you find my projects helpful or interesting, consider supporting me:</p>
   
   <div>
-    <a href="https://buymeacoffee.com/preetam-90"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+    <a href="https://buymeacoffee.com/preetam90"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
     <a href="https://github.com/sponsors/preetam-90"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
   </div>
 </div>
