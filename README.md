@@ -4,13 +4,12 @@
   </a>
   
   <div>
-    <img src="https://komarev.com/ghpvc/?username=preetam-90&style=for-the-badge&color=F78F07" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge&logo=github&color=3178C6" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=preetam-90&style=for-the-badge&color=F78F07&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge&logo=github&color=3178C6&label=Followers&cacheSeconds=300" alt="GitHub Followers" />
   </div>
 
   <br/>
   
-  <!-- Fixed dynamic animation with reliable source -->
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Developer Animation" />
 </div>
 
@@ -43,6 +42,7 @@
     <p>🔮 Currently exploring: LLaMA APIs, Edge Runtime & Streaming</p>
     <p>🎯 Goal: Building tech that solves real problems with style</p>
     <p>🎧 Coding to: Lo-fi beats and synthwave</p>
+    <p>🕒 Last updated: <b>Auto-updates daily</b></p>
   </div>
 </div>
 
@@ -50,47 +50,50 @@
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<!-- FIXED: Replaced problematic stats with more reliable shields.io badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Summary-Full--Stack%20Developer-F78F07?style=for-the-badge&logo=github" alt="Profile Summary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=buefy&hide_border=true&langs_count=8&cache_seconds=1800">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
+  </picture>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1rem 0;">
-    <!-- Fixed stats with custom badges instead of error-prone services -->
-    <img src="https://img.shields.io/github/stars/preetam-90?style=for-the-badge&logo=github&label=Total%20Stars&color=F78F07" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge&logo=github&label=GitHub%20Followers&color=F78F07" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/preetam-90/vidion?style=for-the-badge&logo=github&label=Latest%20Commit&color=F78F07" alt="Latest Commit" />
-  </div>
+  <br>
   
-  <div style="margin: 1rem 0;">
-    <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TailwindCSS-Skilled-06B6D4?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=preetam-90&theme=radical&hide_border=true&background=EB545400&stroke=F78F07&ring=F78F07&fire=F78F07&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F78F07&dates=FFFFFF&mode=weekly&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=preetam-90&theme=buefy&hide_border=true&mode=weekly&cache_seconds=1800">
+    <img src="https://streak-stats.demolab.com?user=preetam-90&theme=radical&hide_border=true&mode=weekly&cache_seconds=1800" alt="GitHub Streak" />
+  </picture>
   
-  <!-- Activity meter using shields.io -->
-  <div style="margin: 1.5rem 0;">
-    <h3>Activity Meter</h3>
-    <img src="https://img.shields.io/badge/Commits-Very%20Active-success?style=for-the-badge&logo=github" alt="Commit Activity" />
-    <img src="https://img.shields.io/badge/Projects-Consistent%20Builder-blueviolet?style=for-the-badge&logo=github" alt="Project Activity" />
-    <img src="https://img.shields.io/badge/Daily%20Coding-6%2B%20Hours-red?style=for-the-badge&logo=visual-studio-code" alt="Coding Hours" />
-  </div>
+  <br>
   
-  <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;">
-    <img src="https://img.shields.io/github/followers/preetam-90?style=social&label=Follow" />
-    <img src="https://img.shields.io/github/stars/preetam-90?style=social&label=Stars" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=react-dark&bg_color=00000000&color=FFFFFF&line=F78F07&point=FF8F07&area=true&area_color=F78F07&hide_border=true&custom_title=My%20Contribution%20Graph&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=minimal&color=000000&line=F78F07&point=FF8F07&area=true&area_color=FFA50080&hide_border=true&custom_title=My%20Contribution%20Graph&cache_seconds=1800">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&cache_seconds=1800" width="90%" alt="Activity Graph" />
+  </picture>
+  
+  <br>
+  
+  <div>
+    <img src="https://img.shields.io/github/stars/preetam-90?style=for-the-badge&logo=github&label=Total%20Stars&color=F78F07&cacheSeconds=300" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge&logo=github&label=GitHub%20Followers&color=F78F07&cacheSeconds=300" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/preetam-90/vidion?style=for-the-badge&logo=github&label=Latest%20Commit&color=F78F07&cacheSeconds=300" alt="Latest Commit" />
   </div>
 </div>
 
 <h3 align="center">🔝 Top Contributed Repos</h3>
 <div align="center">
-  <!-- Replaced with custom badges since the contributor stats weren't working -->
   <div>
-    <img src="https://img.shields.io/badge/1.%20vidion-Streaming%20Platform-F78F07?style=for-the-badge&logo=github" alt="Top Repo 1" />
-    <img src="https://img.shields.io/badge/2.%20nuvision-Movie%20Platform-F78F07?style=for-the-badge&logo=github" alt="Top Repo 2" />
-    <img src="https://img.shields.io/badge/3.%20grammigo-Agricultural%20Tech-F78F07?style=for-the-badge&logo=github" alt="Top Repo 3" />
-    <img src="https://img.shields.io/badge/4.%20horizonite--bank-Banking%20App-F78F07?style=for-the-badge&logo=github" alt="Top Repo 4" />
-    <img src="https://img.shields.io/badge/5.%20personal--portfolio-Website-F78F07?style=for-the-badge&logo=github" alt="Top Repo 5" />
+    <a href="https://github.com/preetam-90/vidion">
+      <img src="https://github-contributor-stats.vercel.app/api?username=preetam-90&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800" alt="Top Contributed Repos" />
+    </a>
   </div>
 </div>
 
@@ -231,56 +234,41 @@
 <h2 align="center">🏆 Achievements & GitHub Metrics</h2>
 
 <div align="center">
-  <!-- FIXED: Replaced problematic trophy display with badges -->
-  <h3>GitHub Trophies & Achievements</h3>
-  <div>
-    <img src="https://img.shields.io/badge/🏆_Repository-Spotlight_Winner-gold?style=for-the-badge" alt="Repository Spotlight" />
-    <img src="https://img.shields.io/badge/🌟_Star-Collector-yellow?style=for-the-badge" alt="Star Collector" />
-    <img src="https://img.shields.io/badge/🌱_Commit-Gardener-green?style=for-the-badge" alt="Commit Gardener" />
-    <img src="https://img.shields.io/badge/🚀_Pull_Request-Master-blue?style=for-the-badge" alt="PR Master" />
-    <img src="https://img.shields.io/badge/🎯_Issue-Hunter-red?style=for-the-badge" alt="Issue Hunter" />
-    <img src="https://img.shields.io/badge/📦_Repository-Creator-blueviolet?style=for-the-badge" alt="Repository Creator" />
-  </div>
-  <br>
-  
-  <!-- GitHub Extra Pins -->
-<a href="https://github.com/preetam-90/Navision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=Navision&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-</a>
-<a href="https://github.com/preetam-90/vidio-v1.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=vidio-v1.0&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-</a>
-<a href="https://github.com/preetam-90/vidion-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=vidion-ai&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-</a>
-<a href="https://github.com/preetam-90/Grammigo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=Grammigo&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-</a>
-
+  <a href="https://github.com/preetam-90/Navision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=Navision&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+  </a>
+  <a href="https://github.com/preetam-90/vidio-v1.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=vidio-v1.0&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+  </a>
+  <a href="https://github.com/preetam-90/vidion-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=vidion-ai&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+  </a>
+  <a href="https://github.com/preetam-90/Grammigo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=Grammigo&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+  </a>
 </div>
 
 <br>
 
-<!-- Fixed GitHub Achievements section with custom badges instead of the problematic service -->
 <div align="center">
   <h2>🏅 GitHub Badges & Achievements</h2>
   
   <div>
-    <img src="https://img.shields.io/badge/🏆_Ultra_Committer-529pt-success?style=for-the-badge" alt="Ultra Committer" />
-    <img src="https://img.shields.io/badge/🚀_Hyper_Repo_Creator-34pt-blueviolet?style=for-the-badge" alt="Hyper Repo Creator" />
-    <img src="https://img.shields.io/badge/💻_Intermediate_Dev-14pt-blue?style=for-the-badge" alt="Intermediate Dev" />
-    <img src="https://img.shields.io/badge/⭐_Middle_Star-19pt-yellow?style=for-the-badge" alt="Middle Star" />
-    <img src="https://img.shields.io/badge/👥_First_Friend-2pt-orange?style=for-the-badge" alt="First Friend" />
-    <img src="https://img.shields.io/badge/🔄_First_Pull-1pt-lightgrey?style=for-the-badge" alt="First Pull" />
+    <img src="https://img.shields.io/badge/🏆_Ultra_Committer-529pt-success?style=for-the-badge&cacheSeconds=300" alt="Ultra Committer" />
+    <img src="https://img.shields.io/badge/🚀_Hyper_Repo_Creator-34pt-blueviolet?style=for-the-badge&cacheSeconds=300" alt="Hyper Repo Creator" />
+    <img src="https://img.shields.io/badge/💻_Intermediate_Dev-14pt-blue?style=for-the-badge&cacheSeconds=300" alt="Intermediate Dev" />
+    <img src="https://img.shields.io/badge/⭐_Middle_Star-19pt-yellow?style=for-the-badge&cacheSeconds=300" alt="Middle Star" />
+    <img src="https://img.shields.io/badge/👥_First_Friend-2pt-orange?style=for-the-badge&cacheSeconds=300" alt="First Friend" />
+    <img src="https://img.shields.io/badge/🔄_First_Pull-1pt-lightgrey?style=for-the-badge&cacheSeconds=300" alt="First Pull" />
   </div>
   <br>
   <div>
-    <img src="https://img.shields.io/badge/Pair_Extraordinaire-gold?style=flat-square&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/Pull_Shark-blue?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLO-purple?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Quickdraw-green?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Starstruck-yellow?style=flat-square&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/Galaxy_Brain-orange?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pair_Extraordinaire-gold?style=flat-square&logo=github&logoColor=black&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/Pull_Shark-blue?style=flat-square&logo=github&logoColor=white&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/YOLO-purple?style=flat-square&logo=github&logoColor=white&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/Quickdraw-green?style=flat-square&logo=github&logoColor=white&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/Starstruck-yellow?style=flat-square&logo=github&logoColor=black&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/Galaxy_Brain-orange?style=flat-square&logo=github&logoColor=black&cacheSeconds=300" />
   </div>
 </div>
 
@@ -344,13 +332,12 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Dev Quote" />
   
-  <!-- Replaced Holopin board with custom badge collection -->
   <div>
     <h3>Developer Badges Collection</h3>
-    <img src="https://img.shields.io/badge/Hacktoberfest_2023-Participant-orange?style=for-the-badge&logo=digitalocean" />
-    <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge&logo=opencollective" />
-    <img src="https://img.shields.io/badge/Next.js_Conf-Attendee-black?style=for-the-badge&logo=next.js" />
-    <img src="https://img.shields.io/badge/React_Summit-Member-61DAFB?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Hacktoberfest_2023-Participant-orange?style=for-the-badge&logo=digitalocean&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge&logo=opencollective&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/Next.js_Conf-Attendee-black?style=for-the-badge&logo=next.js&cacheSeconds=300" />
+    <img src="https://img.shields.io/badge/React_Summit-Member-61DAFB?style=for-the-badge&logo=react&cacheSeconds=300" />
   </div>
 </div>
 
