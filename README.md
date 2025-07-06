@@ -1,202 +1,359 @@
-<!-- README.md for Preetam Kumar Singh aka @preetam-90 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Preetam%20Kumar%20Singh&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Midnight%20Coder&descAlignY=60&descSize=20" alt="Animated Header" loading="lazy" />
-</div>
+  <a href="https://github.com/preetam-90">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F78F07&center=true&vCenter=true&random=false&width=600&height=100&lines=Preetam+Kumar+Singh;Full-Stack+Developer;UI%2FUX+Enthusiast;AI+Explorer;Dark+Mode+Advocate" alt="Dynamic Typing Header" />
+  </a>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=preetam-90&style=for-the-badge&color=F78F07" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge&logo=github&color=3178C6" alt="GitHub Followers" />
+  </div>
 
-<h1 align="center">👋 Hey, I'm <strong>Preetam</strong></h1>
-<p align="center"><em>A full-stack dev building streaming platforms, fintech tools & AI-powered web apps with clean UIs and real-world purpose.</em></p>
+  <br/>
+  
+  <!-- Fixed dynamic animation with reliable source -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Developer Animation" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78F07&center=true&width=600&lines=Builder+of+Vidion,+Grammigo,+Horizonite+Bank;Dark+Mode+Lover+%F0%9F%94%AF;TypeScript+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9C%A8+TailwindCSS" alt="Typing Animation" />
+  <a href="https://linkedin.com/in/preetam-90"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/preetam_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:preetam@engineer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://preetam.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://dev.to/preetam"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </div>
 
----
+<br>
 
-## 🚀 About Me
-<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; text-align: center;">
-  <span>🎓 CSE Student | Bihar, India</span>
-  <span>🌙 Midnight coder fueling ideas with TypeScript and Tailwind-powered dreams</span>
-  <span>🧠 Obsessed with clean UIs, streaming tech & modern AI integrations</span>
-  <span>💻 Using: Next.js, Prisma, Supabase, Firebase, Streamlit, and more</span>
-  <span>🔥 Builder of <strong>Vidion</strong>, <strong>Grammigo</strong>, <strong>Horizonite Bank</strong></span>
-</div>
 <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/preetam-90)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78F07&center=true&vCenter=true&width=600&lines=Builder+of+Vidion,+Grammigo,+Horizonite+Bank;Dark+Mode+Lover+%F0%9F%94%AF;TypeScript+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9C%A8+TailwindCSS;Crafting+Exceptional+Digital+Experiences" alt="Typing Animation" />
 </div>
 
----
+<br>
 
-## 🧠 Highlights & Skills
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; padding: 1rem;">
-  <div>📱 Mobile-first UI/UX obsessed</div>
-  <div>🔁 Real-time apps with Supabase, Firebase, Zustand</div>
-  <div>🤖 AI integrations via Groq, LLaMA APIs</div>
-  <div>🌐 Deployed full-stack projects on Vercel & Streamlit</div>
-  <div>🧩 Git, GitHub, and modern open-source workflows</div>
-</div>
+<h2 align="center">✨ About Me</h2>
 
-### My Skills
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
-  <img src="https://img.shields.io/badge/TypeScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-85%25-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
-
----
-
-## 🌈 Tech Stack
-### 🛠️ Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-blue?style=for-the-badge&logo=react&logoColor=white" />
-</div>
-
-### ⚙️ Backend
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge" />
-</div>
-
-### 🧠 AI & Data
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA-FFD43B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-00CC99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-### 🛠️ Tools & DevOps
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-4B3263?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
-
----
-
-## 🌟 Featured Projects
-| Project | Tech Stack | Live Demo | GitHub | Screenshots |
-|:--------|:-----------|:----------|:-------|:------------|
-| **[Vidion](https://vidion.vercel.app)**<br>Streaming platform with dark mode UI | <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> | [![Live](https://img.shields.io/badge/Demo-000?style=flat&logo=vercel&logoColor=white)](https://vidion.vercel.app) | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/preetam-90/vidion) | <details><summary>📸 Screenshots</summary><img src="https://via.placeholder.com/400x225/333/fff?text=Vidion+Screenshot" width="400"></details> |
-| **[Grammigo](https://grammigo.vercel.app)**<br>Agri-vehicle booking platform | <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> | [![Live](https://img.shields.io/badge/Demo-000?style=flat&logo=vercel&logoColor=white)](https://grammigo.vercel.app) | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/preetam-90/grammigo) | <details><summary>📸 Screenshots</summary><img src="https://via.placeholder.com/400x225/333/fff?text=Grammigo+Screenshot" width="400"></details> |
-| **[Horizonite Bank](https://horizonite-bank.streamlit.app)**<br>Fintech banking simulator | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> | [![Live](https://img.shields.io/badge/Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://horizonite-bank.streamlit.app) | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/preetam-90/horizonite-bank) | <details><summary>📸 Screenshots</summary><img src="https://via.placeholder.com/400x225/333/fff?text=Banking+App" width="400"></details> |
-
-
----
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="800"/>
+  <img align="right" width="38%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVwaWVxNTAwNjdvZ3I3NDRpMWd2MnRiaTZtbXJnNjF4bHdjZTZpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
+  <div align="left" width="60%">
+    <p>🎓 Computer Science Student from Bihar, India</p>
+    <p>🌙 Midnight coder fueled by coffee and TypeScript dreams</p>
+    <p>🧠 Obsessed with clean UIs, streaming tech & AI integrations</p>
+    <p>💻 Creator of <b>Vidion</b>, <b>Grammigo</b>, <b>Horizonite Bank</b>, <b>Nuvision</b></p>
+    <p>🔮 Currently exploring: LLaMA APIs, Edge Runtime & Streaming</p>
+    <p>🎯 Goal: Building tech that solves real problems with style</p>
+    <p>🎧 Coding to: Lo-fi beats and synthwave</p>
+  </div>
 </div>
 
+<br clear="all">
 
-## 📊 GitHub Stats & Activity
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<!-- FIXED: Replaced problematic stats with more reliable shields.io badges -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preetam-90&theme=github_dark" loading="lazy" />
+  <img src="https://img.shields.io/badge/Profile%20Summary-Full--Stack%20Developer-F78F07?style=for-the-badge&logo=github" alt="Profile Summary" />
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1rem 0;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <!-- Fixed stats with custom badges instead of error-prone services -->
+    <img src="https://img.shields.io/github/stars/preetam-90?style=for-the-badge&logo=github&label=Total%20Stars&color=F78F07" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge&logo=github&label=GitHub%20Followers&color=F78F07" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/preetam-90/vidion?style=for-the-badge&logo=github&label=Latest%20Commit&color=F78F07" alt="Latest Commit" />
   </div>
   
-  <img src="https://streak-stats.demolab.com?user=preetam-90&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="90%" />
+  <div style="margin: 1rem 0;">
+    <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-Skilled-06B6D4?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
+  </div>
+  
+  <!-- Activity meter using shields.io -->
+  <div style="margin: 1.5rem 0;">
+    <h3>Activity Meter</h3>
+    <img src="https://img.shields.io/badge/Commits-Very%20Active-success?style=for-the-badge&logo=github" alt="Commit Activity" />
+    <img src="https://img.shields.io/badge/Projects-Consistent%20Builder-blueviolet?style=for-the-badge&logo=github" alt="Project Activity" />
+    <img src="https://img.shields.io/badge/Daily%20Coding-6%2B%20Hours-red?style=for-the-badge&logo=visual-studio-code" alt="Coding Hours" />
+  </div>
   
   <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;">
-    
-  </div>
-    <img src="https://komarev.com/ghpvc/?username=preetam-90&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/preetam-90?style=social&label=Follow" />
     <img src="https://img.shields.io/github/stars/preetam-90?style=social&label=Stars" />
-</div>
-                         
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=preetam-90&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-## 🔥 Live Projects
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <a href="https://vidion.vercel.app"><img src="https://img.shields.io/badge/Vidion-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://grammigo.vercel.app"><img src="https://img.shields.io/badge/Grammigo-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://horizonite-bank.streamlit.app"><img src="https://img.shields.io/badge/Horizonite_Bank-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  </div>
 </div>
 
----
-
-## 🏆 Achievements & Badges
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-6A0DAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Enthusiast-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dark_Mode_Expert-563D7C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real_Time_Apps-00B4D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript_Ninja-3178C6?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Next.js_Champion-000?style=for-the-badge&logo=next.js" />
-  
-  <!-- Added GitHub achievement badges -->
-  <img src="https://img.shields.io/badge/Hyper_Committer-449pt-3178C6?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/First_Pull-1pt-2D3748?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Hyper_Repo_Creator-34pt-FF4B4B?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Intermediate_Dev-14pt-FFCA28?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Middle_Star-19pt-FFD43B?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/First_Friend-2pt-00CC99?style=for-the-badge&logo=github" />
-</div>
-
----
-
-### ❤️ Support My Work
-<div style="display: flex; gap: 0.5rem; justify-content: center;">
-  <a href="https://buymeacoffee.com/preetam-90"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://github.com/sponsors/preetam-90"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
-</div>
-
----
-
-## 😄 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
-## 📫 Connect with Me
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <a href="https://github.com/preetam-90"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/preetam-90"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:preetam@engineer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/preetam_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/preetam"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://preetam.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</div>
-
-### 🌐 Languages
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-  <img src="https://img.shields.io/badge/English-Fluent-blue" />
-  <img src="https://img.shields.io/badge/Hindi-Native-orange" />
-</div>
-
----
-
-> "Dark mode on. Brainstorm mode activated."  
-> — **Preetam**, probably at 2 AM 😎
-
----
-
-⭐️ If you dig my work, don't forget to **star** your favorite repos!
+<h3 align="center">🔝 Top Contributed Repos</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Preetam-F78F07?style=for-the-badge" />
+  <!-- Replaced with custom badges since the contributor stats weren't working -->
+  <div>
+    <img src="https://img.shields.io/badge/1.%20vidion-Streaming%20Platform-F78F07?style=for-the-badge&logo=github" alt="Top Repo 1" />
+    <img src="https://img.shields.io/badge/2.%20nuvision-Movie%20Platform-F78F07?style=for-the-badge&logo=github" alt="Top Repo 2" />
+    <img src="https://img.shields.io/badge/3.%20grammigo-Agricultural%20Tech-F78F07?style=for-the-badge&logo=github" alt="Top Repo 3" />
+    <img src="https://img.shields.io/badge/4.%20horizonite--bank-Banking%20App-F78F07?style=for-the-badge&logo=github" alt="Top Repo 4" />
+    <img src="https://img.shields.io/badge/5.%20personal--portfolio-Website-F78F07?style=for-the-badge&logo=github" alt="Top Repo 5" />
+  </div>
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Skills & Technologies</h2>
+
+<div align="center">
+  <h3>Frontend Excellence</h3>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,redux,html,css,sass" alt="Frontend Skills" /><br>
+
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,firebase,supabase,mysql,postgresql" alt="Backend Skills" /><br>
+
+  <h3>AI & Data</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI Skills" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="48" height="48" alt="Streamlit" style="filter: invert(43%) sepia(29%) saturate(6340%) hue-rotate(337deg) brightness(99%) contrast(95%);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48" height="48" alt="OpenAI" style="filter: invert(23%) sepia(74%) saturate(1550%) hue-rotate(256deg) brightness(84%) contrast(94%);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="48" height="48" alt="Pandas" style="filter: invert(35%) sepia(94%) saturate(1909%) hue-rotate(212deg) brightness(96%) contrast(101%);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" style="filter: invert(37%) sepia(98%) saturate(7471%) hue-rotate(343deg) brightness(105%) contrast(92%);" />
+  <br>
+
+  <h3>DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,figma,postman" alt="Tools" />
+</div>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Vidion</h3>
+        <div align="center">
+          <a href="https://vidion.vercel.app" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/video.png" width="80" alt="Vidion"/>
+          </a>
+        </div>
+        <p align="center">
+          Modern streaming platform with immersive dark mode UI
+          <br>
+          <br>
+          <a href="https://github.com/preetam-90/vidion">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://vidion.vercel.app">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Nuvision</h3>
+        <div align="center">
+          <a href="https://bhaiflix.vercel.app" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/movie.png" width="80" alt="Nuvision"/>
+          </a>
+        </div>
+        <p align="center">
+          Premium movie streaming platform with advanced recommendations
+          <br>
+          <br>
+          <a href="https://github.com/preetam-90/nuvision">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://bhaiflix.vercel.app">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Grammigo</h3>
+        <div align="center">
+          <a href="https://grammigo.vercel.app" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/tractor.png" width="80" alt="Grammigo"/>
+          </a>
+        </div>
+        <p align="center">
+          Agricultural vehicle booking platform for rural communities
+          <br>
+          <br>
+          <a href="https://github.com/preetam-90/grammigo">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://grammigo.vercel.app">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Horizonite Bank</h3>
+        <div align="center">
+          <a href="https://horizonite-bank.streamlit.app" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/bank-building.png" width="80" alt="Horizonite Bank"/>
+          </a>
+        </div>
+        <p align="center">
+          Interactive banking simulator with AI-powered insights
+          <br>
+          <br>
+          <a href="https://github.com/preetam-90/horizonite-bank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://horizonite-bank.streamlit.app">
+            <img src="https://img.shields.io/badge/Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">🏆 Achievements & GitHub Metrics</h2>
+
+<div align="center">
+  <!-- FIXED: Replaced problematic trophy display with badges -->
+  <h3>GitHub Trophies & Achievements</h3>
+  <div>
+    <img src="https://img.shields.io/badge/🏆_Repository-Spotlight_Winner-gold?style=for-the-badge" alt="Repository Spotlight" />
+    <img src="https://img.shields.io/badge/🌟_Star-Collector-yellow?style=for-the-badge" alt="Star Collector" />
+    <img src="https://img.shields.io/badge/🌱_Commit-Gardener-green?style=for-the-badge" alt="Commit Gardener" />
+    <img src="https://img.shields.io/badge/🚀_Pull_Request-Master-blue?style=for-the-badge" alt="PR Master" />
+    <img src="https://img.shields.io/badge/🎯_Issue-Hunter-red?style=for-the-badge" alt="Issue Hunter" />
+    <img src="https://img.shields.io/badge/📦_Repository-Creator-blueviolet?style=for-the-badge" alt="Repository Creator" />
+  </div>
+  <br>
+  
+  <!-- GitHub Extra Pins -->
+<a href="https://github.com/preetam-90/Navision">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=Navision&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+</a>
+<a href="https://github.com/preetam-90/vidio-v1.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=vidio-v1.0&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+</a>
+<a href="https://github.com/preetam-90/vidion-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=vidion-ai&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+</a>
+<a href="https://github.com/preetam-90/Grammigo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=preetam-90&repo=Grammigo&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Fixed GitHub Achievements section with custom badges instead of the problematic service -->
+<div align="center">
+  <h2>🏅 GitHub Badges & Achievements</h2>
+  
+  <div>
+    <img src="https://img.shields.io/badge/🏆_Ultra_Committer-529pt-success?style=for-the-badge" alt="Ultra Committer" />
+    <img src="https://img.shields.io/badge/🚀_Hyper_Repo_Creator-34pt-blueviolet?style=for-the-badge" alt="Hyper Repo Creator" />
+    <img src="https://img.shields.io/badge/💻_Intermediate_Dev-14pt-blue?style=for-the-badge" alt="Intermediate Dev" />
+    <img src="https://img.shields.io/badge/⭐_Middle_Star-19pt-yellow?style=for-the-badge" alt="Middle Star" />
+    <img src="https://img.shields.io/badge/👥_First_Friend-2pt-orange?style=for-the-badge" alt="First Friend" />
+    <img src="https://img.shields.io/badge/🔄_First_Pull-1pt-lightgrey?style=for-the-badge" alt="First Pull" />
+  </div>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/Pair_Extraordinaire-gold?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pull_Shark-blue?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLO-purple?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quickdraw-green?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Starstruck-yellow?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Galaxy_Brain-orange?style=flat-square&logo=github&logoColor=black" />
+  </div>
+</div>
+
+<br>
+
+<h2 align="center">⚡ Core Expertise</h2>
+
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+    <div style="text-align: center; padding: 1rem; border-radius: 10px; background-color: rgba(247, 143, 7, 0.1);">
+      <img src="https://img.icons8.com/fluency/96/000000/web-design.png" alt="UI/UX Design" width="48" />
+      <h3>UI/UX Excellence</h3>
+      <p>Creating elegant, responsive, and accessible interfaces with dark mode aesthetics</p>
+    </div>
+    <div style="text-align: center; padding: 1rem; border-radius: 10px; background-color: rgba(247, 143, 7, 0.1);">
+      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" alt="Full-Stack Development" width="48" />
+      <h3>Full-Stack Development</h3>
+      <p>End-to-end solutions with Next.js, React, Node.js and various databases</p>
+    </div>
+    <div style="text-align: center; padding: 1rem; border-radius: 10px; background-color: rgba(247, 143, 7, 0.1);">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" alt="AI Integration" width="48" />
+      <h3>AI Integration</h3>
+      <p>Implementing LLM APIs, recommendation systems, and intelligent automation</p>
+    </div>
+    <div style="text-align: center; padding: 1rem; border-radius: 10px; background-color: rgba(247, 143, 7, 0.1);">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" alt="Clean Code" width="48" />
+      <h3>Clean Architecture</h3>
+      <p>Building maintainable systems with TypeScript, Zod validation and best practices</p>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<details>
+<summary><h2 align="center">🤙 Connect & Support</h2></summary>
+<div align="center">
+  <h3>Let's Chat!</h3>
+  <p>I'm always open to interesting conversations, collaborations, or project opportunities.</p>
+  
+  <div>
+    <a href="https://linkedin.com/in/preetam-90"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/preetam_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="mailto:preetam@engineer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://preetam.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://dev.to/preetam"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  </div>
+  
+  <h3>Support My Work</h3>
+  <p>If you find my projects helpful or interesting, consider supporting me:</p>
+  
+  <div>
+    <a href="https://buymeacoffee.com/preetam-90"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+    <a href="https://github.com/sponsors/preetam-90"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+  </div>
+</div>
+</details>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Dev Quote" />
+  
+  <!-- Replaced Holopin board with custom badge collection -->
+  <div>
+    <h3>Developer Badges Collection</h3>
+    <img src="https://img.shields.io/badge/Hacktoberfest_2023-Participant-orange?style=for-the-badge&logo=digitalocean" />
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge&logo=opencollective" />
+    <img src="https://img.shields.io/badge/Next.js_Conf-Attendee-black?style=for-the-badge&logo=next.js" />
+    <img src="https://img.shields.io/badge/React_Summit-Member-61DAFB?style=for-the-badge&logo=react" />
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=footer" width="100%" />
 </div>
