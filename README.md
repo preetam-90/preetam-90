@@ -99,6 +99,18 @@
 
 <br>
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetam-90/preetam-90/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preetam-90/preetam-90/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/preetam-90/preetam-90/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</div>
+
+<br>
+
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
 <div align="center">
