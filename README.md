@@ -132,6 +132,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,figma,postman" alt="Tools" />
 </div>
 
+<!-- Additional Tech & Tools Section -->
+<h2 align="center">🔧 Additional Badges</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7E018?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" />
+</div>
+
 <br>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -282,6 +293,14 @@
     <img src="https://img.shields.io/badge/Starstruck-yellow?style=flat-square&logo=github&logoColor=black&cacheSeconds=300" />
     <img src="https://img.shields.io/badge/Galaxy_Brain-orange?style=flat-square&logo=github&logoColor=black&cacheSeconds=300" />
   </div>
+</div>
+
+<!-- GitHub Trophies Section -->
+<div align="center">
+  <h2>GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
