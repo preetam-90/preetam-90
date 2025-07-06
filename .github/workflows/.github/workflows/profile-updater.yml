@@ -1,0 +1,41 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
+      - name: Create local changes
+        run: |
+          # This script would update your README.md as needed
+          # For demonstration we'll just touch the file to trigger a commit
+          date >> update_log.txt
+          
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Auto-update README" -a || echo "No changes to commit"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
