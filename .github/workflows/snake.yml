@@ -5,11 +5,15 @@ on:
     - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write  # This is the key fix!
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: Platane/snk@v3
         id: snake-gif
         with:
