@@ -98,7 +98,13 @@
 | **[Grammigo](https://grammigo.vercel.app)**<br>Agri-vehicle booking platform | <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> | [![Live](https://img.shields.io/badge/Demo-000?style=flat&logo=vercel&logoColor=white)](https://grammigo.vercel.app) | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/preetam-90/grammigo) | <details><summary>📸 Screenshots</summary><img src="https://via.placeholder.com/400x225/333/fff?text=Grammigo+Screenshot" width="400"></details> |
 | **[Horizonite Bank](https://horizonite-bank.streamlit.app)**<br>Fintech banking simulator | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> | [![Live](https://img.shields.io/badge/Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://horizonite-bank.streamlit.app) | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/preetam-90/horizonite-bank) | <details><summary>📸 Screenshots</summary><img src="https://via.placeholder.com/400x225/333/fff?text=Banking+App" width="400"></details> |
 
+
 ---
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="800"/>
+</div>
+
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
