@@ -114,14 +114,10 @@
   
   <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;">
     
-
-  <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=radical&no-bg=true&margin-w=10&column=5&cache_bust=1" />
-
   </div>
-  <img src="https://komarev.com/ghpvc/?username=preetam-90&color=orange&style=flat-square&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=preetam-90&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/preetam-90?style=social&label=Follow" />
     <img src="https://img.shields.io/github/stars/preetam-90?style=social&label=Stars" />
-  <img src="https://github.com/preetam-90/preetam-90/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
                          
 ---
