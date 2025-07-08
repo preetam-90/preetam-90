@@ -29,7 +29,7 @@
 
 <br>
 
-<h2 align="center">✨ About Me</h2>
+## ✨ About Me
 
 <div align="center">
   <img align="right" width="38%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVwaWVxNTAwNjdvZ3I3NDRpMWd2MnRiaTZtbXJnNjF4bHdjZTZpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
@@ -48,7 +48,7 @@
 
 <br clear="all">
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   <picture>
@@ -88,7 +88,7 @@
   </div>
 </div>
 
-<h3 align="center">🔝 Top Contributed Repos</h3>
+### 🔝 Top Contributed Repos
 <div align="center">
   <div>
     <a href="https://github.com/preetam-90/vidion">
@@ -99,7 +99,7 @@
 
 <br>
 
-<h2 align="center">🐍 My Contribution Snake</h2>
+## 🐍 My Contribution Snake
 
 <div align="center">
   <picture>
@@ -111,7 +111,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+## 🛠️ Skills & Technologies
 
 <div align="center">
   <h3>Frontend Excellence</h3>
@@ -132,8 +132,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,figma,postman" alt="Tools" />
 </div>
 
-<!-- Additional Tech & Tools Section -->
-<h2 align="center">🔧 Additional Badges</h2>
+## 🔧 Additional Badges
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7E018?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
@@ -145,7 +144,7 @@
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
@@ -254,7 +253,7 @@
 
 <br>
 
-<h2 align="center">🏆 Achievements & GitHub Metrics</h2>
+## 🏆 Achievements & GitHub Metrics
 
 <div align="center">
   <a href="https://github.com/preetam-90/Navision">
@@ -281,6 +280,7 @@
     <img src="https://img.shields.io/badge/🚀_Hyper_Repo_Creator-34pt-blueviolet?style=for-the-badge&cacheSeconds=300" alt="Hyper Repo Creator" />
     <img src="https://img.shields.io/badge/💻_Intermediate_Dev-14pt-blue?style=for-the-badge&cacheSeconds=300" alt="Intermediate Dev" />
     <img src="https://img.shields.io/badge/⭐_Middle_Star-19pt-yellow?style=for-the-badge&cacheSeconds=300" alt="Middle Star" />
+    <img src="https://img.shields.io/badge/🌟_Star_Earned-20pt-gold?style=for-the-badge&cacheSeconds=300" alt="Star Earned" />
     <img src="https://img.shields.io/badge/👥_First_Friend-2pt-orange?style=for-the-badge&cacheSeconds=300" alt="First Friend" />
     <img src="https://img.shields.io/badge/🔄_First_Pull-1pt-lightgrey?style=for-the-badge&cacheSeconds=300" alt="First Pull" />
   </div>
@@ -295,9 +295,8 @@
   </div>
 </div>
 
-<!-- GitHub Trophies Section -->
+## GitHub Trophies
 <div align="center">
-  <h2>GitHub Trophies</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
   </a>
@@ -305,7 +304,7 @@
 
 <br>
 
-<h2 align="center">⚡ Core Expertise</h2>
+## ⚡ Core Expertise
 
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
