@@ -41,7 +41,6 @@
     <p>💻 Creator of <b>Vidion</b>, <b>Grammigo</b>, <b>Horizonite Bank</b>, <b>Nuvision</b></p>
     <p>🔮 Currently exploring: LLaMA APIs, Edge Runtime & Streaming</p>
     <p>🎯 Goal: Building tech that solves real problems with style</p>
-    <p>🎧 Coding to: Lo-fi beats and synthwave</p>
     <p>🕒 Last updated: <b>Auto-updates daily</b></p>
   </div>
 </div>
